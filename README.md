@@ -20,6 +20,7 @@ I created a deck to summarize my findings and provide actionable recommendations
 Python NumPy and Pandas, NetworkX graphs, PyVis, Pitchbook, CrunchBase
 
 **Lessons and Takeaways:**
+<br>
 A sample size of 100 is too small to observe overarching patterns and relationships between investors. I can increase the sample size by scraping data from PitchBook and CrunchBase, but I'd need access to their API for this to be worthwhile. I'd use a simple random sample from the subset of startups in Series A and B. 
 
 

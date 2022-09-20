@@ -12,6 +12,7 @@ I analyzed 100 Series A and B startups to identify which universities and geogra
 
 I compiled the dataset from PitchBook and Crunchbase by filtering and identifying high quality startups afer pre-seed rounds. I cleaned and analyzed this data in Jupyter Notebook to determine trends in HQ locations and founders' associated universities. To visualize and understand investor relationships, I created interactive network graphs using NetworkX. 
 <br>
+<br>
 I created a deck to summarize my findings and provide actionable recommendations. 
 
 **Data Tools Used:**
